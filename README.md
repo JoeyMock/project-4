@@ -1,3 +1,16 @@
+Name: Joseph Mock
+email: jmock1881@gmail.com
+Project: App to find start and stop times for a bicycle race
+
+
+
+
+
+
+
+
+
+
 # UOCIS322 - Project 4 #
 You'll learn how to write test cases and test your code, along with more JQuery.
 
