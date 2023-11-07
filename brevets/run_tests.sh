@@ -2,5 +2,5 @@
 
 for t in tests/*.py
 do
-    nosetests3 $t
+    nosetests $t
 done
